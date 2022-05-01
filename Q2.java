@@ -1,5 +1,5 @@
 import javax.swing.*;
-
+//find max min of an array
 public class Q2 {
     static void maxMinArray(int[] arr,int size){
         int max=arr[0],min=arr[0];

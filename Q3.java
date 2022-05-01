@@ -1,3 +1,4 @@
+//find max min element with index
 public class Q3 {
     static void maxMin_kth(int[]arr,int size) {
         int max = arr[0], min = arr[0], kmax = 0, kmin = 0;
